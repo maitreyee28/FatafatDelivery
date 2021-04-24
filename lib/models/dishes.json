@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "Name": "Pizza",
+    "Restaurant": "Foodies",
+    "Price": "180",
+    "Rating": "100",
+    "img": "https://spoonacular.com/menuItemImages/pizza.jpg"
+  },
+  {
+    "id": "2",
+    "Name": "Burger",
+    "Restaurant": "Foodies",
+    "Price": "90",
+    "Rating": "100",  
+    "img": "https://spoonacular.com/menuItemImages/burger.jpg"
+  },
+  {
+    "id": "3",
+    "Name": "Taco",
+    "Restaurant": "Taco Bell",
+    "Price": "90",
+    "Rating": "100",
+    "img": "https://spoonacular.com/menuItemImages/taco-isolated.jpg"
+  },
+  {
+    "id": "4",
+    "Name": "Biryani",
+    "Restaurant": "Behrouz",
+    "Price": "250",
+    "Rating": "100",
+    "img":"https://spoonacular.com/menuItemImages/rice.jpg"
+  },
+  {
+    "id": "5",
+    "Name": "Cake",
+    "Restaurant": "TGB",
+    "Price": "180",
+    "Rating": "40",
+    "cake":"https://spoonacular.com/menuItemImages/cake.jpg"
+  }
+]

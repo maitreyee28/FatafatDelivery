@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905550192892",
+    "project_id": "fatafat-delivery-f5c2d",
+    "storage_bucket": "fatafat-delivery-f5c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905550192892:android:8bea37a0325445e3e6f779",
+        "android_client_info": {
+          "package_name": "com.esam.fatafat_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905550192892-5e2gcvdb9t8ors1mrh6m90e3hu982r58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZFu9ObJj9o_LCahZUHdcOVrxTqR7zsmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905550192892-5e2gcvdb9t8ors1mrh6m90e3hu982r58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
